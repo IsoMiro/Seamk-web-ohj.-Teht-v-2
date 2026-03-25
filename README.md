@@ -1,1 +1,1 @@
-# Seamk-web-ohj.-Teht-v-2
+Tämä Projekti on tarkoitettu Seamk tehtävä #2 varten
